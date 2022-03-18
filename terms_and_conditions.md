@@ -1,9 +1,9 @@
 Política de Privacidade
 
-Wallace Salviano criou o aplicativo 21 Dias de Ayuno como aplicativo freemium/comercial. Este SERVIÇO é fornecido por Wallace Salviano sem custo e é destinado para uso como está.
+Wallace Salviano criou o aplicativo Jogos Bíblicos - 4 em 1 como aplicativo freemium/comercial. Este SERVIÇO é fornecido por Wallace Salviano sem custo e é destinado para uso como está.
 Esta página é usada para informar os visitantes sobre as políticas com a coleta, uso e divulgação de Informações Pessoais, caso alguém decida usar o nosso Serviço.
 Se você optar por usar o Serviço, concordará com a coleta e uso de informações relacionadas a essa política. As informações pessoais coletadas por nós são usadas para fornecer e melhorar o serviço. Nós não usaremos nem compartilharemos suas informações com ninguém, exceto conforme descrito nesta Política de Privacidade.
-Os termos usados nesta Política de Privacidade têm os mesmos significados que os nossos Termos e Condições, que podem ser acessados no app 21 Dias de Ayuno, a menos que definido de outra forma nesta Política de Privacidade.
+Os termos usados nesta Política de Privacidade têm os mesmos significados que os nossos Termos e Condições, que podem ser acessados no app Jogos Bíblicos - 4 em 1, a menos que definido de outra forma nesta Política de Privacidade.
 Coleta e Uso de Informações
 Para uma melhor experiência, ao usar nosso Serviço, é possível que você precise nos fornecer algumas informações pessoalmente identificáveis, no caso, o id para exibição de anúncios do Admob. As informações que pedimos serão retidas pela Admob e usadas conforme descrito nesta política de privacidade.
 O aplicativo usa serviços de terceiros que podem coletar informações usadas para identificá-lo.
